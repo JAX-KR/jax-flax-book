@@ -1,0 +1,6 @@
+jax==0.4.26
+flax==0.8.4
+optax== 0.2.2
+datasets
+transformers
+tokenizers
