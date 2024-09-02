@@ -2,7 +2,7 @@
 
 "JAX/Flax로 딥러닝 레벨업"은 JAX와 Flax를 활용하여 딥러닝의 이론과 실습을 단계별로 학습할 수 있도록 돕는 책입니다. 이 책은 기초적인 내용부터 시작하여 고급 주제에 이르기까지 폭넓은 내용을 다룹니다. JAX와 Flax를 통해 딥러닝을 더 깊이 이해하고 실무에서 활용할 수 있는 능력을 키우는 것이 목표입니다.
 
-![cover](https://github.com/JAX-KR/jax-flax-book/cover.jpeg)
+![cover](https://github.com/JAX-KR/jax-flax-book/blob/main/cover.jpeg)
 
 판매처 : [교보문고](https://product.kyobobook.co.kr/detail/S000214172972), [yes24](https://www.yes24.com/Product/Goods/132950692), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=345956174)
 
